@@ -1,0 +1,32 @@
+li {
+    float: left;
+    list-style: none;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid black;
+}
+
+nav {
+    float: right;
+    margin-top: 50px;
+    margin-right: 180px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+}
+
+li:hover a {
+    color: red;
+}
+
+img {
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+* {
+    background-color: rgb(168, 235, 255);
+}
